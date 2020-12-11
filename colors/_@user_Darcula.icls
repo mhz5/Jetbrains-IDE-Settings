@@ -1,0 +1,62 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2018-04-07T15:40:00</property>
+    <property name="ide">PyCharmCore</property>
+    <property name="ideVersion">2018.1.0.0</property>
+    <property name="modified">2018-08-21T10:49:04</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <colors>
+    <option name="CARET_COLOR" value="ff00c4" />
+    <option name="CARET_ROW_COLOR" value="444444" />
+    <option name="SELECTION_BACKGROUND" value="3dbdb8" />
+    <option name="SELECTION_FOREGROUND" value="252641" />
+  </colors>
+  <attributes>
+    <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="3dbdb8" />
+        <option name="EFFECT_COLOR" value="ffef28" />
+        <option name="ERROR_STRIPE_COLOR" value="36b13" />
+      </value>
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="ffef28" />
+        <option name="BACKGROUND" value="72787c" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="RUBY_CONSTANT">
+      <value>
+        <option name="FOREGROUND" value="57da5b" />
+      </value>
+    </option>
+    <option name="RUBY_SPECIFIC_CALL">
+      <value>
+        <option name="FOREGROUND" value="68cfca" />
+      </value>
+    </option>
+    <option name="SEARCH_RESULT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="155221" />
+        <option name="EFFECT_COLOR" value="ffffff" />
+        <option name="ERROR_STRIPE_COLOR" value="530d" />
+      </value>
+    </option>
+    <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3c704b" />
+        <option name="EFFECT_COLOR" value="3c704b" />
+        <option name="ERROR_STRIPE_COLOR" value="61936f" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
